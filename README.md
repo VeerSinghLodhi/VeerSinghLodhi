@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/veer singh lodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veer singh lodhi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/veer singh lodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veer singh lodhi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/veer singh lodhi](https://www.linkedin.com/in/veer-singh-lodhi-6786aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veer singh lodhi" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/https://youtube.com/@thakurveersingh7?si=xre2ecnbltncf-yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thakurveersingh7?si=xre2ecnbltncf-yk" height="30" width="40" /></a>
 </p>
 
