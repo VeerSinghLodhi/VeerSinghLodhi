@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://x.com/veerSin22816021?t=o3hZnstGiN8U_nOjQWEqhw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veer singh lodhi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/veer-singh-lodhi-6786aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veer singh lodhi" height="30" width="40" /></a>
-  <a href="youtube.com/channel/UCFy1I_EXFiaI7gtsVV8ehog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thakurveersingh7?si=xre2ecnbltncf-yk" height="30" width="40" /></a>
+  <a href="youtube.com/channel/UCFy1I_EXFiaI7gtsVV8ehog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/UCFy1I_EXFiaI7gtsVV8ehog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Databases Hands On</h3>
