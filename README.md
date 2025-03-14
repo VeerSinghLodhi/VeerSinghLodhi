@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python, DSA(C/C++) and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VeerSinghLodhi](https://github.com/VeerSinghLodhi)
+- 👨‍💻 All of my projects are available at [https://github.com/VeerSinghLodhi](https://github.com/VeerSinghLodhi?tab=repositories)
 
 - 💬 Ask me about **Java, Python, Web Development, and building efficient applications.**
 
