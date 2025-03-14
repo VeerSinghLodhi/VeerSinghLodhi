@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VeerSinghLodhi](https://github.com/VeerSinghLodhi)
 
-- 💬 Ask me about **Ask me about Java, Web Development, and building efficient applications.**
+- 💬 Ask me about **Java, Web Development, and building efficient applications.**
 
 - 📫 How to reach me **veerlodhi54@gmail.com**
 
