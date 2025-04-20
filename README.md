@@ -15,6 +15,19 @@
 
 - ⚡ Fun fact **I'm funny 😎**
 
+<h2>About Me</h2>
+I am a passionate and detail-oriented Full Stack Developer dedicated to crafting efficient and scalable solutions. Proficient in a range of programming languages and tools, I bring expertise in:
+
+- Programming Languages: JAVA, DSA (C, C++), Python, JavaScript
+
+- Front-End Technologies: HTML, CSS, Bootstrap
+
+- Back-End Development: Spring Boot, SQL
+
+- Problem Solving: Data Structures and Algorithms
+
+My focus lies in developing seamless user experiences and robust systems. With a strong foundation in both front-end and back-end technologies, I am committed to delivering impactful solutions that meet the highest standards.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
