@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veersinghlodhi&label=Profile%20views&color=0e75b6&style=flat" alt="veersinghlodhi" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring-Boot, Python, Java-Script, DSA(C/C++/Java) and Web Development**
+- 🌱 I’m currently learning **Spring-Boot, Python and DSA(C/C++/Java/Python)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VeerSinghLodhi](https://github.com/VeerSinghLodhi?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Web Development, and building efficient applications.**
+- 💬 Ask me about **Java, Python, Web Development, DSA and building efficient applications.**
 
 - 📫 How to reach me **veerlodhi54@gmail.com**
 
