@@ -18,7 +18,7 @@
 <h2>About Me</h2>
 I am a passionate and detail-oriented Full Stack Developer dedicated to crafting efficient and scalable solutions. Proficient in a range of programming languages and tools, I bring expertise in:
 
-- Programming Languages: JAVA, DSA (C, C++), Python, JavaScript
+- I code with : JAVA, DSA (C, C++, Java), Python, JavaScript, Web Development
 
 - Front-End Technologies: HTML, CSS, Bootstrap
 
